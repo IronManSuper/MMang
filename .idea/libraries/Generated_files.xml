@@ -1,0 +1,59 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/color.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/service/WeinreClientCommands.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/opt.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/cli.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/shell.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/whet.extend/test/extend_test.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/completion.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/serviceManager.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/whet.extend/test/test_helper.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/HttpChannelHandler.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/whet.extend/src/whet.extend.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/weinre.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/arg.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/extensionManager.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/Channel.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/MessageQueue.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/channelManager.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/jsonBodyParser.js" />
+        <item url="file://$PROJECT_DIR$/gulpfile.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/service/WeinreTargetCommands.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/messageHandler.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/cmd.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/dumpingHandler.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/color.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/service/WeinreClientCommands.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/opt.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/cli.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/shell.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/whet.extend/test/extend_test.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/completion.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/whet.extend/test/test_helper.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/whet.extend/src/whet.extend.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/extensionManager.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/Channel.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/MessageQueue.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/channelManager.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/jsonBodyParser.js" />
+      <root url="file://$PROJECT_DIR$/gulpfile.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/service/WeinreTargetCommands.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/messageHandler.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/cmd.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/dumpingHandler.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/serviceManager.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/HttpChannelHandler.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/browser-sync/node_modules/browser-sync-ui/node_modules/weinre/lib-src/weinre.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp-imagemin/node_modules/imagemin-svgo/node_modules/svgo/node_modules/coa/src/arg.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

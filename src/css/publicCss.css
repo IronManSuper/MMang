@@ -1,0 +1,136 @@
+
+/*背景图片*/
+.icon_header-logo{/*导航条logo*/
+    border:none;
+    -webkit-background-image:url("../images/header-logo.png");
+    -moz-background-image: url("../images/header-logo.png");
+    background-color: transparent;
+    background-image: url("../images/header-logo.png");
+    background-repeat:no-repeat;
+    background-position: center;
+}
+.icon-game{/*游戏图标*/
+    border:none;
+    -webkit-background-image:url("../images/icon-03.png");
+    -moz-background-image: url("../images/icon-03.png");
+    background-color: transparent;
+    background-image: url("../images/icon-03.png");
+    background-repeat:no-repeat;
+    /*background-size: cover;*/
+    background-position: center;
+}
+.icon-earnings{/*收益图标*/
+    border:none;
+    -webkit-background-image:url("../images/icon-01.png");
+    -moz-background-image: url("../images/icon-01.png");
+    background-color: transparent;
+    background-image: url("../images/icon-01.png");
+    background-repeat:no-repeat;
+    background-position: center;
+}
+.icon-server{/*服务图标*/
+    border:none;
+    -webkit-background-image:url("../images/icon-02.png");
+    -moz-background-image: url("../images/icon-02.png");
+    background-color: transparent;
+    background-image: url("../images/icon-02.png");
+    background-repeat:no-repeat;
+    background-position: center;
+}
+
+.icon-capacity{
+    border:none;
+    -webkit-background-image:url("../images/icon-04.png");
+    -moz-background-image: url("../images/icon-04.png");
+    background-color: transparent;
+    background-image: url("../images/icon-04.png");
+    background-repeat:no-repeat;
+}
+.icon-efficient{
+    -webkit-background-image:url("../images/icon-05.png");
+    -moz-background-image: url("../images/icon-05.png");
+    background-color: transparent;
+    background-image: url("../images/icon-05.png");
+    background-repeat:no-repeat;
+    background-position: center;
+}
+.icon-bg-top{
+    -webkit-background-image:url("../images/bg_01.jpg");
+    -moz-background-image: url("../images/bg_01.jpg");
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-color: transparent;
+    background-image: url("../images/bg_01.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.icon-bg-center{
+    -webkit-background-image:url("../images/bg_02.jpg");
+    -moz-background-image: url("../images/bg_02.jpg");
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-color: transparent;
+    background-image: url("../images/bg_02.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.icon-bg-bottom{
+    -webkit-background-image:url("../images/bg_03.jpg");
+    -moz-background-image: url("../images/bg_03.jpg");
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-color: transparent;
+    background-image: url("../images/bg_03.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.icon-close-btn{/*导航条关闭按钮*/
+    -webkit-background-image:url("../images/close.png");
+    -moz-background-image: url("../images/close.png");
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-color: transparent;
+    background-image: url("../images/close.png");
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+
+.icon-weiBo{
+    -webkit-background-image:url("../images/icon-weibo.png");
+    -moz-background-image: url("../images/icon-weibo.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-color: transparent;
+    background-image: url("../images/icon-weibo.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.icon-weiXin{
+    -webkit-background-image:url("../images/icon-weixin.png");
+    -moz-background-image: url("../images/icon-weixin.png");
+    -webkit-background-size:cover;
+    -moz-background-size: cover;
+    background-color: transparent;
+    background-image: url("../images/icon-weixin.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.icon-banner{
+    -webkit-background-image:url("../images/banner-one.png");
+    -moz-background-image: url("../images/banner-one.png");
+    background-color: transparent;
+    background-image: url("../images/banner-one.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center top;
+}
+

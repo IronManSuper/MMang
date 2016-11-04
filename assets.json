@@ -1,0 +1,26 @@
+{
+  "assetsJs":[
+    "./src/plugin/*.js",
+    "./src/plugin/unslider/js/unslider-*.js"
+  ],
+  "copyImages":[
+    "./src/images/*.jpg",
+    "./src/images/*.png"
+  ],
+  "assetsCss":[
+    "./src/plugin/unslider/css/unslider.css",
+    "./src/plugin/unslider/css/unslider-*.css"
+  ],
+  "noCompressPlugin":[
+    "./src/plugin/jquery/*.js",
+    "./src/css/bitbug_favicon.ico"
+  ],
+  "appCss":[
+    "./src/css/index-pc.css",
+    "./src/css/publicCss.css"
+  ],
+  "appJs":[
+    "./src/js/custom.js"
+  ]
+
+}
